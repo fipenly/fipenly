@@ -1,5 +1,3 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<br><br>
 # Hi, I'm Fipenly! 👋
 
 [![](https://visitcount.itsvg.in/api?id=fipenly&icon=5&color=1)](https://visitcount.itsvg.in)
