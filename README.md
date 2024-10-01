@@ -1,4 +1,4 @@
-## Hi, I'm Fipenly! 👋
+## 👋 Hi, I'm Fipenly!
 
 [![](https://visitcount.itsvg.in/api?id=fipenly&icon=5&color=1)](https://visitcount.itsvg.in)
 
