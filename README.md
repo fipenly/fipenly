@@ -5,7 +5,7 @@
   <a href="https://instagram.com/fipenly"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/><img width="5"/></a>
 </div>
 
-## 🛠️ Languages
+## 🛠️ Technologies
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"/><img width="5"/>
   <img src="https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"/><img width="5"/>
